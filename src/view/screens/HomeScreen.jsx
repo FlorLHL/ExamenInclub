@@ -1,12 +1,9 @@
-import React, { useCallback, useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import {
   ActivityIndicator,
   FlatList,
   Image,
-  RefreshControl,
-  ScrollView,
   StyleSheet,
-  Text,
   TextInput,
   View,
 } from "react-native";
